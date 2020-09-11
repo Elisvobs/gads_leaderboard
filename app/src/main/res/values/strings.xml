@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">GADS Leaderboard</string>
+    <string name="main_label">LEADERBOARD</string>
+    <string name="leaders">Learning Leaders</string>
+    <string name="submit">Submit</string>
+    <string name="skill">Skill IQ Leaders</string>
+    <string name="back">Back</string>
+    <string name="logo">Logo</string>
+    <string name="submission">Project Submission</string>
+    <string name="gradient">gradient</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email Address</string>
+    <string name="url">Project on GITHUB (link)</string>
+    <string name="error_message">Please fill all fields before proceeding.</string>
+    <string name="submitting">Submitting…</string>
+    <string name="submission_successful">Submission Successful</string>
+    <string name="submission_not_successful">Submission not Successful</string>
+    <string name="close">Close </string>
+    <string name="yes">Yes</string>
+    <string name="confirmation">Are you sure?</string>
+    <string name="learning_badge">Learning Badge</string>
+    <string name="learning_details">%1$d learning hours, %2$s.</string>
+    <string name="skill_details">%1$d skill IQ Score, %2$s.</string>
+    <string name="no_data">No Data</string>
+    <string name="network_error">Please make sure you\'re connected to the internet and try again.</string>
+    <string name="no">No</string>
+</resources>
